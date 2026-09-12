@@ -5,7 +5,9 @@
 &nbsp;&nbsp;&nbsp;전자결재 · 일정 · 회의 · 채팅 · 공유함 · 메일 · AI 챗봇을 한 곳에서 🏢✨ <p>
 &nbsp;&nbsp;&nbsp;결재·일정·조직을 한 곳에 모아 “요약 → 결정 → 실행” 흐름을 만드는 전자결재 중심 그룹웨어 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;<br>
+##### <p align="center"> 유튜브 링크 : {https://www.youtube.com/watch?v=eeCr5ruyD6o} <p>
 <br>
+
 
 ## 📌 Table of Contents
 - [Overview](#-overview)
