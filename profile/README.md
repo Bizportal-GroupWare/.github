@@ -15,8 +15,6 @@
 - [Core Features](#-core-features)
 - [ERD](#-erd)
 - [API](#-api)
-- [Directory Structure](#-directory-structure)
-- [Members](#-members)
 
 <br>
 
