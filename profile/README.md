@@ -52,7 +52,7 @@
 - **DB**: MySQL (**Amazon RDS**), Redis (**ElastiCache**), **MongoDB Atlas**  
 - **Search**: **Elasticsearch** (EKS에 Pod로 운영 + **EBS PVC**)  
 - **Vector DB**: **Weaviate** (EKS에 Pod로 운영 + **EBS PVC**)  
-- **External API**: OpenAI (FastAPI 연동)
+- **External API**: OpenAI (FastAPI 연동.)
 
 <br>
 
